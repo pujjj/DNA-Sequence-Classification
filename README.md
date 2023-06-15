@@ -1,2 +1,4 @@
 # DNA-Sequence-Classification
 Using data gathered from gene microarrays, we constructed and analysed a number of machine learning classifiers for predicting disease in this experiment. 
+
+The classifiers are trained on the provided unlabeled test sample and predicted on the labelled training gene samples. Extra Tree Classifier, which had the highest accuracy rate among them, was found to be the most effective classifier. Based on the suggested categorization model, every sample gathered using the microarray may be used to forecast the disease, and the patient can be diagnosed in the most effective way possible. We can evaluate the classifiers on other datasets and disease classes as part of this project's future work, testing their effectiveness in diagnosing disease from more complex gene datasets. 
